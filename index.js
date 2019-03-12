@@ -1,2 +1,3 @@
 const canvas = document.querySelector('canvas');
-console.dir(canvas)
+canvas.width = '500';
+canvas.height = '500';
